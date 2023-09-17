@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+CityTours
+Reviews
+04-accordion
 
 # Editor directories and files
 .vscode/*
